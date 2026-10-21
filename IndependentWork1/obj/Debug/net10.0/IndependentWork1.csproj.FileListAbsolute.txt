@@ -1,0 +1,14 @@
+C:\Users\Адмін\IndependentWork1\bin\Debug\net10.0\IndependentWork1.exe
+C:\Users\Адмін\IndependentWork1\bin\Debug\net10.0\IndependentWork1.deps.json
+C:\Users\Адмін\IndependentWork1\bin\Debug\net10.0\IndependentWork1.runtimeconfig.json
+C:\Users\Адмін\IndependentWork1\bin\Debug\net10.0\IndependentWork1.dll
+C:\Users\Адмін\IndependentWork1\bin\Debug\net10.0\IndependentWork1.pdb
+C:\Users\Адмін\IndependentWork1\obj\Debug\net10.0\IndependentWork1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Адмін\IndependentWork1\obj\Debug\net10.0\IndependentWork1.AssemblyInfoInputs.cache
+C:\Users\Адмін\IndependentWork1\obj\Debug\net10.0\IndependentWork1.AssemblyInfo.cs
+C:\Users\Адмін\IndependentWork1\obj\Debug\net10.0\IndependentWork1.csproj.CoreCompileInputs.cache
+C:\Users\Адмін\IndependentWork1\obj\Debug\net10.0\IndependentWork1.dll
+C:\Users\Адмін\IndependentWork1\obj\Debug\net10.0\refint\IndependentWork1.dll
+C:\Users\Адмін\IndependentWork1\obj\Debug\net10.0\IndependentWork1.pdb
+C:\Users\Адмін\IndependentWork1\obj\Debug\net10.0\IndependentWork1.genruntimeconfig.cache
+C:\Users\Адмін\IndependentWork1\obj\Debug\net10.0\ref\IndependentWork1.dll
