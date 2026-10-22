@@ -1,0 +1,14 @@
+C:\Users\Адмін\IndependentWork1\IndependentWork2\IndependentWork4\IndependentWork5\IndependentWork6\bin\Debug\net10.0\IndependentWork6.exe
+C:\Users\Адмін\IndependentWork1\IndependentWork2\IndependentWork4\IndependentWork5\IndependentWork6\bin\Debug\net10.0\IndependentWork6.deps.json
+C:\Users\Адмін\IndependentWork1\IndependentWork2\IndependentWork4\IndependentWork5\IndependentWork6\bin\Debug\net10.0\IndependentWork6.runtimeconfig.json
+C:\Users\Адмін\IndependentWork1\IndependentWork2\IndependentWork4\IndependentWork5\IndependentWork6\bin\Debug\net10.0\IndependentWork6.dll
+C:\Users\Адмін\IndependentWork1\IndependentWork2\IndependentWork4\IndependentWork5\IndependentWork6\bin\Debug\net10.0\IndependentWork6.pdb
+C:\Users\Адмін\IndependentWork1\IndependentWork2\IndependentWork4\IndependentWork5\IndependentWork6\obj\Debug\net10.0\IndependentWork6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Адмін\IndependentWork1\IndependentWork2\IndependentWork4\IndependentWork5\IndependentWork6\obj\Debug\net10.0\IndependentWork6.AssemblyInfoInputs.cache
+C:\Users\Адмін\IndependentWork1\IndependentWork2\IndependentWork4\IndependentWork5\IndependentWork6\obj\Debug\net10.0\IndependentWork6.AssemblyInfo.cs
+C:\Users\Адмін\IndependentWork1\IndependentWork2\IndependentWork4\IndependentWork5\IndependentWork6\obj\Debug\net10.0\IndependentWork6.csproj.CoreCompileInputs.cache
+C:\Users\Адмін\IndependentWork1\IndependentWork2\IndependentWork4\IndependentWork5\IndependentWork6\obj\Debug\net10.0\IndependentWork6.dll
+C:\Users\Адмін\IndependentWork1\IndependentWork2\IndependentWork4\IndependentWork5\IndependentWork6\obj\Debug\net10.0\refint\IndependentWork6.dll
+C:\Users\Адмін\IndependentWork1\IndependentWork2\IndependentWork4\IndependentWork5\IndependentWork6\obj\Debug\net10.0\IndependentWork6.pdb
+C:\Users\Адмін\IndependentWork1\IndependentWork2\IndependentWork4\IndependentWork5\IndependentWork6\obj\Debug\net10.0\IndependentWork6.genruntimeconfig.cache
+C:\Users\Адмін\IndependentWork1\IndependentWork2\IndependentWork4\IndependentWork5\IndependentWork6\obj\Debug\net10.0\ref\IndependentWork6.dll
