@@ -1,0 +1,14 @@
+C:\Users\Адмін\IndependentWork1\IndependentWork2\IndependentWork4\IndependentWork5\IndependentWork6\IndependentWork7\bin\Debug\net10.0\IndependentWork7.exe
+C:\Users\Адмін\IndependentWork1\IndependentWork2\IndependentWork4\IndependentWork5\IndependentWork6\IndependentWork7\bin\Debug\net10.0\IndependentWork7.deps.json
+C:\Users\Адмін\IndependentWork1\IndependentWork2\IndependentWork4\IndependentWork5\IndependentWork6\IndependentWork7\bin\Debug\net10.0\IndependentWork7.runtimeconfig.json
+C:\Users\Адмін\IndependentWork1\IndependentWork2\IndependentWork4\IndependentWork5\IndependentWork6\IndependentWork7\bin\Debug\net10.0\IndependentWork7.dll
+C:\Users\Адмін\IndependentWork1\IndependentWork2\IndependentWork4\IndependentWork5\IndependentWork6\IndependentWork7\bin\Debug\net10.0\IndependentWork7.pdb
+C:\Users\Адмін\IndependentWork1\IndependentWork2\IndependentWork4\IndependentWork5\IndependentWork6\IndependentWork7\obj\Debug\net10.0\IndependentWork7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Адмін\IndependentWork1\IndependentWork2\IndependentWork4\IndependentWork5\IndependentWork6\IndependentWork7\obj\Debug\net10.0\IndependentWork7.AssemblyInfoInputs.cache
+C:\Users\Адмін\IndependentWork1\IndependentWork2\IndependentWork4\IndependentWork5\IndependentWork6\IndependentWork7\obj\Debug\net10.0\IndependentWork7.AssemblyInfo.cs
+C:\Users\Адмін\IndependentWork1\IndependentWork2\IndependentWork4\IndependentWork5\IndependentWork6\IndependentWork7\obj\Debug\net10.0\IndependentWork7.csproj.CoreCompileInputs.cache
+C:\Users\Адмін\IndependentWork1\IndependentWork2\IndependentWork4\IndependentWork5\IndependentWork6\IndependentWork7\obj\Debug\net10.0\IndependentWork7.dll
+C:\Users\Адмін\IndependentWork1\IndependentWork2\IndependentWork4\IndependentWork5\IndependentWork6\IndependentWork7\obj\Debug\net10.0\refint\IndependentWork7.dll
+C:\Users\Адмін\IndependentWork1\IndependentWork2\IndependentWork4\IndependentWork5\IndependentWork6\IndependentWork7\obj\Debug\net10.0\IndependentWork7.pdb
+C:\Users\Адмін\IndependentWork1\IndependentWork2\IndependentWork4\IndependentWork5\IndependentWork6\IndependentWork7\obj\Debug\net10.0\IndependentWork7.genruntimeconfig.cache
+C:\Users\Адмін\IndependentWork1\IndependentWork2\IndependentWork4\IndependentWork5\IndependentWork6\IndependentWork7\obj\Debug\net10.0\ref\IndependentWork7.dll
