@@ -1,0 +1,14 @@
+C:\Users\Адмін\IndependentWork1\IndependentWork2\IndependentWork4\IndependentWork5\IndependentWork6\IndependentWork7\IndependentWork8\OOP-Maneliuk\lab12v15\bin\Debug\net10.0\lab12v15.exe
+C:\Users\Адмін\IndependentWork1\IndependentWork2\IndependentWork4\IndependentWork5\IndependentWork6\IndependentWork7\IndependentWork8\OOP-Maneliuk\lab12v15\bin\Debug\net10.0\lab12v15.deps.json
+C:\Users\Адмін\IndependentWork1\IndependentWork2\IndependentWork4\IndependentWork5\IndependentWork6\IndependentWork7\IndependentWork8\OOP-Maneliuk\lab12v15\bin\Debug\net10.0\lab12v15.runtimeconfig.json
+C:\Users\Адмін\IndependentWork1\IndependentWork2\IndependentWork4\IndependentWork5\IndependentWork6\IndependentWork7\IndependentWork8\OOP-Maneliuk\lab12v15\bin\Debug\net10.0\lab12v15.dll
+C:\Users\Адмін\IndependentWork1\IndependentWork2\IndependentWork4\IndependentWork5\IndependentWork6\IndependentWork7\IndependentWork8\OOP-Maneliuk\lab12v15\bin\Debug\net10.0\lab12v15.pdb
+C:\Users\Адмін\IndependentWork1\IndependentWork2\IndependentWork4\IndependentWork5\IndependentWork6\IndependentWork7\IndependentWork8\OOP-Maneliuk\lab12v15\obj\Debug\net10.0\lab12v15.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Адмін\IndependentWork1\IndependentWork2\IndependentWork4\IndependentWork5\IndependentWork6\IndependentWork7\IndependentWork8\OOP-Maneliuk\lab12v15\obj\Debug\net10.0\lab12v15.AssemblyInfoInputs.cache
+C:\Users\Адмін\IndependentWork1\IndependentWork2\IndependentWork4\IndependentWork5\IndependentWork6\IndependentWork7\IndependentWork8\OOP-Maneliuk\lab12v15\obj\Debug\net10.0\lab12v15.AssemblyInfo.cs
+C:\Users\Адмін\IndependentWork1\IndependentWork2\IndependentWork4\IndependentWork5\IndependentWork6\IndependentWork7\IndependentWork8\OOP-Maneliuk\lab12v15\obj\Debug\net10.0\lab12v15.csproj.CoreCompileInputs.cache
+C:\Users\Адмін\IndependentWork1\IndependentWork2\IndependentWork4\IndependentWork5\IndependentWork6\IndependentWork7\IndependentWork8\OOP-Maneliuk\lab12v15\obj\Debug\net10.0\lab12v15.dll
+C:\Users\Адмін\IndependentWork1\IndependentWork2\IndependentWork4\IndependentWork5\IndependentWork6\IndependentWork7\IndependentWork8\OOP-Maneliuk\lab12v15\obj\Debug\net10.0\refint\lab12v15.dll
+C:\Users\Адмін\IndependentWork1\IndependentWork2\IndependentWork4\IndependentWork5\IndependentWork6\IndependentWork7\IndependentWork8\OOP-Maneliuk\lab12v15\obj\Debug\net10.0\lab12v15.pdb
+C:\Users\Адмін\IndependentWork1\IndependentWork2\IndependentWork4\IndependentWork5\IndependentWork6\IndependentWork7\IndependentWork8\OOP-Maneliuk\lab12v15\obj\Debug\net10.0\lab12v15.genruntimeconfig.cache
+C:\Users\Адмін\IndependentWork1\IndependentWork2\IndependentWork4\IndependentWork5\IndependentWork6\IndependentWork7\IndependentWork8\OOP-Maneliuk\lab12v15\obj\Debug\net10.0\ref\lab12v15.dll
